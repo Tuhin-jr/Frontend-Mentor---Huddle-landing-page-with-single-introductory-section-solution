@@ -191,10 +191,11 @@ img:first-child {
   }
   .top_area img:first-child {
     width: 203px;
+    padding-top: 2px;
   }
   .top_area img:nth-child(2) {
     width: 100%;
-    margin-bottom: 62px;
+    margin-bottom: 61px;
   }
 
   .bottom_area {
